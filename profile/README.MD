@@ -11,8 +11,8 @@ Advancing the Future of Connected Systems
 - Network Simulations
 
 ## Repository Categories
-Datasets
-Documentation
+- Datasets
+- Documentation
 
 ## Repository Standards
 
