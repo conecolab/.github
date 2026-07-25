@@ -27,3 +27,7 @@ Each repository contains:
 Principal Investigator: Dr. Josyl Mariela Reyes
 
 CoNeCo Research Laboratory
+
+## Links
+[CoNeCo Website](https://sites.google.com/ust.edu.ph/coneco)
+[CoNeCo Facebook](https://www.facebook.com/conecolab)
