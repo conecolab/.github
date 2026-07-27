@@ -29,7 +29,19 @@ Delete this section (PURPOSE SECTION) before publishing the repository.
 ## Repository Structure
 ---
 ## Citation
----
+## Citation
+
+If you use this dataset in your research, **please cite the associated publication**, which describes the research methodology and analysis.
+
+### Preferred Citation
+
+> *Insert IEEE or APA citation here*
+
+Paper / Thesis
+
+https://...
+
+GitHub provides additional citation formats through the **CITATION.cff** file.
 ## License
 ---
 ## Authors 
