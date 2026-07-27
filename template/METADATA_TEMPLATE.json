@@ -1,1 +1,15 @@
-To be completed.
+This file stores machine-readable information about the dataset.  
+It allows future tools, websites, and search engines to automatically organize CoNeCo Research Lab datasets.  
+Do not remove fields.  
+If a field does not apply, leave it blank or use null.  
+
+
+{
+  "title": "",
+  "authors": [],
+  "adviser": "",
+  "research_area": "",
+  "keywords":[],
+  "license":""
+}
+  
