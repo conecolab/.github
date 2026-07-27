@@ -1,7 +1,7 @@
 # Student Repository Guide
 ## Purpose
 This guide explains how student researchers prepare their GitHub repository for publication.  
-Repositories created under CoNeCo Research Lab represent the laboratory and the university.  
+Repositories created under CoNeCo Lab represent the laboratory and the university.  
 Students are expected to follow the repository standards described in this guide.  
 ---
 
