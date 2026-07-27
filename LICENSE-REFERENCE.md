@@ -5,9 +5,9 @@ The selected license should reflect the intended use of the repository contents 
 ---
 # Datasets
 Recommended:
-- CC BY 4.0
-Allows reuse provided attribution is given.
-Suitable for most published research datasets.
+- CC BY 4.0  
+Allows reuse provided attribution is given.  
+Suitable for most published research datasets.  
 ---
 # Documentation
 Recommended:
@@ -16,10 +16,11 @@ Recommended:
 # Software
 Recommended:  
 - MIT License
-Simple and permissive.
-Suitable for most research software.
-Alternative:
-- Apache 2.0
+  
+Simple and permissive.  
+Suitable for most research software.  
+Alternative:  
+- Apache 2.0  
 Recommended when explicit patent protection is desired.
 ---
 # When Not to Publish
