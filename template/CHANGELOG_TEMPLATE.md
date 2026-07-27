@@ -1,5 +1,18 @@
 # Changelog
 
+## Purpose
+Use this file to record every significant change made to the repository after its initial publication.  
+Do not overwrite previous entries.  
+Each version should include: 
+- Date
+- Version Number
+- Summary of changes
+
+This helps researchers understand which version of the dataset they are using.  
+Delete this PURPOSE section before publication.  
+
+----
+
 ## Version 1.0
 Initial public release
 
