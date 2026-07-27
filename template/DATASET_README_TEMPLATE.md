@@ -1,4 +1,4 @@
-#CoNeCo Lab Dataset README Template  
+# CoNeCo Lab Dataset README Template  
 
 ## Purpose  
 
