@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Purpose
-Although mot repositories contain research datasets rather than production software, responsible disclosure remains important.  
+Although most repositories contain research datasets rather than production software, responsible disclosure remains important.  
 If you discover:  
 - exposed credentials
 - confidential information
