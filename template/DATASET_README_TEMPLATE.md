@@ -20,6 +20,8 @@ Delete this section (PURPOSE SECTION) before publishing the repository.
 ---
 ## Research Abstract
 ---
+## Keywords
+---
 ## Dataset Description
 ---
 ## Collection Methodology
@@ -30,20 +32,11 @@ Delete this section (PURPOSE SECTION) before publishing the repository.
 ---
 ## License
 ---
-## Authors
----
-## Research Laboratory
----
-## University
---- 
-## Adviser
---- 
-## Academic Year
----
-## Funding
---- 
-## Keywords
---- 
+## Authors 
+Include student names, adviser, research laboratory, department, university and academic year  
+
 ## Acknowledgments
----
+Include funding source if any  
+
 ## Contact
+--- 
