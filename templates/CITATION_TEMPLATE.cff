@@ -1,7 +1,86 @@
-Purpose  
-This file enables GitHub's "Cite this repository" feature.  
-Complete this file before making the repository public.  
-Whenever possible, cite the associated journal article ot thesis.  
-GitHub automatically converts this file into BibTeX, APA, and other citation formats.  
-Delete this instructions before publishing.  
+# ------------------------------------------------------------------------
+# CoNeCo Research Laboratory
+# CITATION.cff Template
+#
+# PURPOSE
+#
+# This file enables GitHub's "Cite this repository" feature.
+#
+# The preferred citation for CoNeCo Lab repositories is the associated
+# journal article, conference paper, or thesis—not the GitHub repository.
+#
+# Before publishing:
+#   1. Replace all placeholder values.
+#   2. Update the preferred-citation section.
+#   3. Remove these instructions.
+#
+# If no publication is available yet, use the thesis as the preferred
+# citation. If neither a publication nor a thesis is available, GitHub
+# will fall back to citing the repository.
+# ------------------------------------------------------------------------
 
+cff-version: 1.2.0
+
+title: "Replace with the repository title"
+
+message: >
+  If you use this dataset in your research, please cite the associated
+  publication listed below.
+
+type: dataset
+
+authors:
+  - family-names: "Surname"
+    given-names: "First Middle"
+    affiliation: "CoNeCo Research Laboratory, Your University"
+
+repository-code: "https://github.com/conecolab/repository-name"
+
+license: "CC-BY-4.0"
+
+version: "1.0.0"
+
+date-released: "YYYY-MM-DD"
+
+abstract: >
+  Replace this with a brief summary of the dataset.
+
+keywords:
+  - dataset
+
+# ------------------------------------------------------------------------
+# Preferred Citation
+#
+# Replace this section with the appropriate publication.
+#
+# Possible types include:
+#   thesis
+#   article
+#   paper-conference
+#   report
+#
+# Remove fields that are not applicable.
+# ------------------------------------------------------------------------
+
+preferred-citation:
+
+  type: article
+
+  title: "Complete thesis title"
+
+  authors:
+    - family-names: "Surname"
+      given-names: "First Middle"
+
+    - family-names: "Surname"
+      given-names: "First Middle"
+
+  journal: "IEEE Access"
+
+  year: 2028
+
+  volume
+
+  pages: "1234-1248"  
+
+  doi: "10.xxxx/xxxxx"
