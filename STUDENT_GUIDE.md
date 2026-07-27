@@ -17,4 +17,3 @@ Students are expected to follow the repository standards described in this guide
 9. Publish repository.
 10. Create Release v1.0
 
-11. 
